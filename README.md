@@ -1,4 +1,4 @@
-# Journal of Pharmaceutical Research & Innovation
+# Pharmionex Research Journal
 
 Modern responsive static website for GitHub Pages.
 

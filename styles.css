@@ -313,3 +313,13 @@ button,input,textarea,select{font:inherit}
   .archive-row{grid-template-columns:1fr;gap:6px}.issue-banner{align-items:flex-start}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.feature-card,.button{transition:none}}
+
+.guideline-section{padding:0 0 72px}
+.guideline-section:last-of-type{padding-bottom:45px}
+.guideline-two-col{align-items:start}
+.guideline-section .section-heading{margin-bottom:25px}
+.guideline-section .journal-table td:first-child{font-weight:800;color:#243d45;min-width:150px}
+.guideline-section .journal-table td{vertical-align:top}
+.guideline-section .info-panel p{font-size:11px}
+.guideline-section .info-panel ol{margin:0;padding-left:20px;color:#52666c;font-size:11px;line-height:2}
+@media(max-width:760px){.guideline-section{padding-bottom:55px}.guideline-section .journal-table{min-width:680px}}
